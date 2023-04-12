@@ -71,6 +71,6 @@ function renderCountries(countries) {
       languages
     )}</li></ul>`;
 
-    refs.divEl.innerHTML = markup;
+    refs.divEl.insertAdjacentHTML('beforeend', markup);
   }
 }
