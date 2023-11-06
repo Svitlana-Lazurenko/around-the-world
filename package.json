@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Svitlana-Lazurenko/goit-js-hw-10",
+  "homepage": "https://Svitlana-Lazurenko/javascript-exercises-5",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
+    "build": "parcel build src/*.html --public-url /javascript-exercises-5/"
   },
   "repository": {
     "type": "git",
